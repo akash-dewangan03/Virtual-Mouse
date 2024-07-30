@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pyttsx3 = "*"
+speechrecognition = "*"
+pynput = "*"
+pyautogui = "*"
+wikipedia = "*"
+opencv-python = "*"
+mediapipe = "*"
+comtypes = "*"
+pycaw = "*"
+screen-brightness-control = "*"
+eel = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

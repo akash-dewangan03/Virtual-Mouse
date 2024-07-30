@@ -1,0 +1,10 @@
+pipenv shell
+python Proton.py
+
+
+
+
+
+activate myenv
+pipenv shell
+python Proton.py
